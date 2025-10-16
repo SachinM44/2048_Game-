@@ -1,6 +1,6 @@
 # 2048 Game
 
-**Play it here:** https://2048-game-51vafu9fw-sachins-projects-101ada71.vercel.app/
+**Play it here:** https://transcendent-bienenstitch-fd6c7c.netlify.app/
 
 
 ## Features
